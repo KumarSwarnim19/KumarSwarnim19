@@ -1,17 +1,11 @@
 <div align="center">
 
 <!-- Raw CRT / Pixel Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=220&section=header&text=hi%2C%20im%20kumar.&fontSize=52&fontColor=00ff9f&fontAlignY=42&animation=fadeIn&desc=devops%20engineer%20%7C%20automator%20%7C%20shipper.&descAlignY=68&descSize=18&descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=220&section=header&text=Hi%2C%20I'm%20Kumar.&fontSize=52&fontColor=00ff9f&fontAlignY=42&animation=fadeIn&desc=Devops%20Engineer%20%7C%20Automator%20%7C%20Shipper.&descAlignY=68&descSize=18&descColor=39ff14" width="100%"/>
 
 <!-- Terminal-style typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF9F&background=00000000&center=true&vCenter=true&width=700&lines=root%40kumar%3A~%24+whoami;%3E+devops_engineer.exe+--status%3Donline;Building+resilient+infra+on+AWS;Automating+everything+with+Terraform+%26+Ansible;Shipping+containers+with+Docker+%26+Kubernetes;Securing+pipelines+with+DevSecOps;Exploring+Agentic+AI+for+DevOps" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KumarSwarnim19&style=for-the-badge&color=00FF9F&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/UPTIME-99.9%25-00FF9F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-DEPLOYING...-00FF9F?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF9F&background=00000000&center=true&vCenter=true&width=700&lines=root%40kumar%3A~%24+whoami;%3E+devops_engineer.exe+--status%3Donline;Building+resilient+infra;Automating+everything+with+Terraform+%26+Ansible;Shipping+containers+with+Docker+%26+Kubernetes;Securing+pipelines+with+DevSecOps;Exploring+Agentic+AI+for+DevOps" alt="Typing SVG" />
 </p>
 
 </div>
@@ -27,18 +21,14 @@
 ```yaml
 role: DevOps Engineer
 grad: CS Grad 🎓
-mission: "Automate everything that moves, secure everything that ships"
-currently_exploring: Agentic AI for DevOps 🤖
+mission: Automate everything that moves, secure everything that ships.
+currently_exploring: Agentic AI that operates infra 🤖
 ```
 
-- ☁️ I design, automate, and secure cloud infrastructure end-to-end from provisioning to deployment to monitoring
-- 🔐 Passionate about **DevSecOps** baking security scans directly into CI/CD pipelines
+- ☁️ I design, automate, and secure cloud infrastructure end-to-end from provisioning to deployment to monitoring.
+- 🔐 Passionate about **DevSecOps** baking security scans directly into CI/CD pipelines.
 - 🤖 Building MCP servers that let AI assistants safely inspect and operate.
-- 🐍 Sharpening my **Python** scripting for personal projects
-
-</td>
-<td valign="top" width="35%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KumarSwarnim19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+- 🐍 Sharpening my **Python** scripting so the scripts don't roast me back.
 
 </td>
 </tr>
@@ -136,37 +126,15 @@ currently_exploring: Agentic AI for DevOps 🤖
 
 ---
 
-### 🔥 Featured Project
-
-<table align="center">
-<tr>
-<td width="100%">
-
-#### 🤖 [AGENTIC](https://github.com/KumarSwarnim19/AGENTIC)
-A local DevOps tool connecting **Claude Desktop** to **Docker** and **Kubernetes** environments via a custom **MCP (Model Context Protocol)** server — enabling AI-assisted command execution and container/cluster health inspection, with user approval built in at every step.
-
-`Python` `MCP` `Docker` `Kubernetes` `Agentic AI`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎮 Loading Avatar...
-
-<p align="center">
-  <img src="assets/pixel-avatar.gif" width="220" alt="pixel avatar loading in" />
-</p>
-<p align="center"><i>compiling pixels... spawning DevOps engineer... done ✅</i></p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kumar-swarnim-devops/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kumarswarnim19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -174,7 +142,7 @@ A local DevOps tool connecting **Claude Desktop** to **Docker** and **Kubernetes
 <p align="center"><i>🚧 Automating today so tomorrow deploys itself.</i></p>
 
 <p align="center">
-<code>Why do DevOps engineers never get locked out?<br>Because they always have a backup... and a rollback plan for the backup. 🔁</code>
+<code>Why do DevOps engineers never get locked out?<br> Because they always have a backup... and a rollback plan for the backup. 🔁</code>
 </p>
 
 <p align="center">
