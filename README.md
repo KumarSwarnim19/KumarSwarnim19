@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2EA3F7&height=180&section=header&text=Kumar%20Swarnim&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%E2%80%A2%20Automation%20%E2%80%A2%20CI%2FCD%20%E2%80%A2%20DevSecOps&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:00fff5&height=200&section=header&text=KUMAR%20SWARNIM&fontSize=46&fontColor=00fff5&animation=fadeIn&fontAlignY=38&desc=%3E%20DevOps%20Engineer%20~%20booting%20cloud-native%20systems&descAlignY=58&descSize=16&descColor=b0faff" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=sudo+deploy+--env+prod+--confidence+high;Building+resilient+infra+on+AWS+%E2%98%81%EF%B8%8F;Automating+everything+with+Terraform+%26+Ansible;Shipping+containers+with+Docker+%26+Kubernetes;Securing+pipelines+with+DevSecOps+%F0%9F%94%92;Exploring+Agentic+AI+for+DevOps+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFD1&background=00000000&center=true&vCenter=true&width=650&lines=root%40kumar%3A~%24+whoami;%3E+devops_engineer.exe+--status%3Donline;Building+resilient+infra+on+AWS+%E2%98%81%EF%B8%8F;Automating+everything+with+Terraform+%26+Ansible;Shipping+containers+with+Docker+%26+Kubernetes;Securing+pipelines+with+DevSecOps+%F0%9F%94%92;Exploring+Agentic+AI+for+DevOps+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2EA3F7&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/UPTIME-99.9%25-2EA3F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-DEPLOYING%E2%80%A6-brightgreen?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=KumarSwarnim19&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/UPTIME-99.9%25-00FFD1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-DEPLOYING%E2%80%A6-6E5DE7?style=for-the-badge" />
 </p>
 
 <table align="center">
@@ -30,7 +30,7 @@ currently_exploring: Agentic AI for DevOps 🤖
 
 </td>
 <td valign="top" width="35%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KumarSwarnim19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
 
 </td>
 </tr>
@@ -114,6 +114,16 @@ currently_exploring: Agentic AI for DevOps 🤖
 
 </td>
 </tr>
+<tr>
+<td>🤖 Agentic AI / MCP</td>
+<td>
+
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E5DE7?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -124,7 +134,7 @@ currently_exploring: Agentic AI for DevOps 🤖
 <tr>
 <td width="100%">
 
-#### 🤖 [AGENTIC](https://github.com/YOUR_GITHUB_USERNAME/AGENTIC)
+#### 🤖 [AGENTIC](https://github.com/KumarSwarnim19/AGENTIC)
 A local DevOps tool connecting **Claude Desktop** to **Docker** and **Kubernetes** environments via a custom **MCP (Model Context Protocol)** server — enabling AI-assisted command execution and container/cluster health inspection, with user approval built in at every step.
 
 `Python` `MCP` `Docker` `Kubernetes` `Agentic AI`
@@ -132,15 +142,6 @@ A local DevOps tool connecting **Claude Desktop** to **Docker** and **Kubernetes
 </td>
 </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -169,5 +170,5 @@ A local DevOps tool connecting **Claude Desktop** to **Docker** and **Kubernetes
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F7,100:0f2027&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff5,100:0f0c29&height=100&section=footer" width="100%"/>
 </p>
