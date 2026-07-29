@@ -31,10 +31,10 @@ mission: "Automate everything that moves, secure everything that ships"
 currently_exploring: Agentic AI for DevOps 🤖
 ```
 
-- ☁️ I design, automate, and secure cloud infrastructure end-to-end — from provisioning to deployment to monitoring
-- 🔐 Passionate about **DevSecOps** — baking security scans directly into CI/CD pipelines
-- 🤖 Building MCP servers that let AI assistants safely inspect and operate on Docker/Kubernetes environments
-- 🐍 Sharpening my **Python** scripting for technical interviews and personal projects
+- ☁️ I design, automate, and secure cloud infrastructure end-to-end from provisioning to deployment to monitoring
+- 🔐 Passionate about **DevSecOps** baking security scans directly into CI/CD pipelines
+- 🤖 Building MCP servers that let AI assistants safely inspect and operate.
+- 🐍 Sharpening my **Python** scripting for personal projects
 
 </td>
 <td valign="top" width="35%" align="center">
