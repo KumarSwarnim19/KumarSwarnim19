@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Raw CRT / Pixel Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=220&section=header&text=Hi%2C%20I'm%20Kumar.&fontSize=52&fontColor=00ff9f&fontAlignY=42&animation=fadeIn&desc=Devops%20Engineer%20%7C%20Automator%20%7C%20Shipper.&descAlignY=68&descSize=18&descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=220&section=header&text=Hi%2C%20I'm%20Kumar&fontSize=52&fontColor=00ff9f&fontAlignY=42&animation=fadeIn&desc=Devops%20Engineer%20%7C%20Automator%20%7C%20Shipper.&descAlignY=68&descSize=18&descColor=39ff14" width="100%"/>
 
 <!-- Terminal-style typing -->
 <p align="center">
