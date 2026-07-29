@@ -1,14 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:00fff5&height=200&section=header&text=KUMAR%20SWARNIM&fontSize=46&fontColor=00fff5&animation=fadeIn&fontAlignY=38&desc=%3E%20DevOps%20Engineer%20~%20booting%20cloud-native%20systems&descAlignY=58&descSize=16&descColor=b0faff" width="100%"/>
+<div align="center">
 
+<!-- Raw CRT / Pixel Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=220&section=header&text=hi%2C%20im%20kumar.&fontSize=52&fontColor=00ff9f&fontAlignY=42&animation=fadeIn&desc=devops%20engineer%20%7C%20automator%20%7C%20shipper.&descAlignY=68&descSize=18&descColor=39ff14" width="100%"/>
+
+<!-- Terminal-style typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFD1&background=00000000&center=true&vCenter=true&width=650&lines=root%40kumar%3A~%24+whoami;%3E+devops_engineer.exe+--status%3Donline;Building+resilient+infra+on+AWS+%E2%98%81%EF%B8%8F;Automating+everything+with+Terraform+%26+Ansible;Shipping+containers+with+Docker+%26+Kubernetes;Securing+pipelines+with+DevSecOps+%F0%9F%94%92;Exploring+Agentic+AI+for+DevOps+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF9F&background=00000000&center=true&vCenter=true&width=700&lines=root%40kumar%3A~%24+whoami;%3E+devops_engineer.exe+--status%3Donline;Building+resilient+infra+on+AWS;Automating+everything+with+Terraform+%26+Ansible;Shipping+containers+with+Docker+%26+Kubernetes;Securing+pipelines+with+DevSecOps;Exploring+Agentic+AI+for+DevOps" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KumarSwarnim19&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/UPTIME-99.9%25-00FFD1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-DEPLOYING%E2%80%A6-6E5DE7?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=KumarSwarnim19&style=for-the-badge&color=00FF9F&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/UPTIME-99.9%25-00FF9F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-DEPLOYING...-00FF9F?style=for-the-badge" />
 </p>
+
+</div>
+
+<br>
 
 <table align="center">
 <tr>
